@@ -5,8 +5,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/notrab/create-react-app-redux.git
-cd create-react-app-redux
+git clone https://github.com/suhaa18/react-redux-thunk.git
+cd react-redux-thunk
 yarn
 ```
 
